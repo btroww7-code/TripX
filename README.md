@@ -1,3 +1,5 @@
+DEMO BETA VER. SEPOLIA TESTNET.
+
 <div align="center">
 
 # 🌍 TripX
@@ -238,3 +240,4 @@ MIT License - see LICENSE file for details.
 **Built with ❤️ using React, Supabase & Ethereum**
 
 </div>
+
