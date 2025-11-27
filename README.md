@@ -1,4 +1,4 @@
-DEMO BETA VER. SEPOLIA TESTNET.
+DEMO BETA VER. SEPOLIA TESTNET. QUESTS PROOFS WITH AUTO ACCEPT PHOTOS WITHOUT VERIFICATION.
 
 <div align="center">
 
@@ -240,4 +240,5 @@ MIT License - see LICENSE file for details.
 **Built with ❤️ using React, Supabase & Ethereum**
 
 </div>
+
 
