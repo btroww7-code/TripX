@@ -1,6 +1,10 @@
 DEMO BETA VER. SEPOLIA TESTNET. QUESTS PROOFS WITH AUTO ACCEPT PHOTOS WITHOUT VERIFICATION.
 
 <div align="center">
+  <img src="logo.png" alt="TripX" width="400" />
+</div>
+
+<div align="center">
 
 # 🌍 TripX
 
@@ -240,5 +244,6 @@ MIT License - see LICENSE file for details.
 **Built with ❤️ using React, Supabase & Ethereum**
 
 </div>
+
 
 
